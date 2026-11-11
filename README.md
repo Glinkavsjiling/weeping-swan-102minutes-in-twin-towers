@@ -4,3 +4,5 @@
 
 - [创意推演对话存档（DeepSeek）](https://chat.deepseek.com/share/kprebajus0mfrmcfow)
 - [另一段相关对话存档](https://chat.deepseek.com/share/e05x8oh1esiti7p41h)
+## 林翩翩的语音模型GPT-SoVITS
+-  https://linpianpian.fun/works/
